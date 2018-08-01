@@ -1,8 +1,8 @@
 <aura:component implements="flexipage:availableForAllPageTypes" access="global">
 
-<h2>Hello World</h2>
+<h2>Hello World Melvin</h2>
 <hr/>
-<h2>Hello World</h2>
+<h2>Hello World Edited by Corbes</h2>
 <hr/>
 <h2>Hello World</h2>
 <hr/>
